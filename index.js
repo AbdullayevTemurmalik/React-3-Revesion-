@@ -14,6 +14,6 @@
 
 // Library va framework farqi ?
 
-// Library => js kutubxonasi kerakli packegelar ozida bolmaydi yuklab kelish kerka
+// Library => js kutubxonasi kerakli packegelar ozida bolmaydi yuklab kelish kerak
 
 // fremework js fremeworki kerakli packegelar ozida boladi yuklab kelish kerak emas
